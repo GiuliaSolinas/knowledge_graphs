@@ -6,6 +6,8 @@ Microsoft GraphRAG: https://microsoft.github.io/graphrag/get_started/
 
 # Additional material to learn about knowledge graphs
 
+Medium article on how to parse information from pdf to graphs: https://medium.com/data-science/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a
+
 Langchain Tutorials
 https://neo4j.com/labs/genai-ecosystem/langchain/
 
